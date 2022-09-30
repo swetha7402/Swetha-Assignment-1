@@ -13,5 +13,5 @@ open the mongo db and enter user credentials and the user  is able to see the de
 the general public license is use and redistribute software and user don't need anything to pay . User can make changes and use them in the private.
 
 
-
+by swetha velaga
 
